@@ -12,7 +12,7 @@
   "cancelButtonText": "Cancelar",
   "loadButtonText": "Carregar",
   "advancedSegmentText": "Avançado",
-  "chatSegmentText": "Chat",
+  "chatSegmentText": "Bate Papo",
   "chatSidebarTitle": "Conversas",
   "newChatButton": "Nova Conversa",
   "newFolderButton": "Nova Pasta",
@@ -28,7 +28,7 @@
   "notes/add/another": "Adicionar outra nota",
   "notes/hint": "Salve notas para esta conversa. As notas são apenas para sua referência e não são enviadas ao modelo. Todas as alterações são salvas automaticamente.",
   "notes/placeholder": "Digite suas notas aqui...",
-  "notes/delete": "Excluir nota",
+  "notes/delete": "Apagar nota",
   "notes/noteLabel": "Nota",
   "notes/copyContent": "Copiar conteúdo da nota",
 
@@ -105,7 +105,7 @@
 
   "style": "Aparência do Chat",
 
-  "style/viewMode/markdown": "Markdown",
+  "style/viewMode/markdown": "Marcação Simplificada",
   "style/viewMode/plaintext": "Texto Simples",
   "style/viewMode/monospace": "Monoespaçado",
 
